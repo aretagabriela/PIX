@@ -1,53 +1,51 @@
-# Como cadastrar a minha chave Pix no Itaú?
+# Como configurar sua chave PIX
+---
 
-O processo para cadastrar a chave Pix serve para vincular a chave escolhida à sua conta bancária para todos os pagamentos recebidos por ela.
-Caso você ainda não tenha nosso app instalado, clique em [Android](https://play.google.com/store/apps/dev?id=6670232843082341199&hl=pt_BR&pli=1) ou [iOS](https://apps.apple.com/br/app/banco-ita%C3%BA-conta-cart%C3%A3o-e/id474505665).
+A configuração da **chave Pix** serve para vincular a chave escolhida à sua conta bancária para todos os pagamentos recebidos por ela.
+Caso você ainda não tenha nosso app instalado, clique em **[Android](https://play.google.com/store/apps/dev?id=6670232843082341199&hl=pt_BR&pli=1)** ou **[iOS](https://apps.apple.com/br/app/banco-ita%C3%BA-conta-cart%C3%A3o-e/id474505665)**.
 Ou acesse pelo QR Code abaixo:
 
 ![imagem com o qr-code para acessar o app do itau](https://github.com/user-attachments/assets/b1835e32-90f8-4469-93f0-70598f0b7f51)
 
 
-## Siga os passos abaixo para cadastrar a chave Pix no aplicativo do Itaú:
+## Siga estes passos para cadastrar a chave Pix no aplicativo do Itaú:
+---
 
 1. Abra o app Itaú e logue com sua conta e senha;
 2. Acesse o menu Pix;
 3. Escolha a sua chave, como e-mail, celular, CPF ou chave aleatória;
-4. No caso do registro de um número de telefone ou e-mail, é necessário informar o código[^1] verificador enviado para o número ou endereço de e-mail;
+4. No caso do cadastro de um número de telefone ou e-mail, é necessário informar o código[^1] verificador enviado para o número ou endereço de e-mail;
 5. Confirme a chave informada
 6. Pronto! Sua chave foi cadastrada.
 
-[^1]: Vale lembrar que a confirmação é feita somente pelo código, já que o Banco Central afirma que nenhuma verificação será realizada por ligações de telefone ou por qualquer tipo de link.
+[^1]: Vale lembrar que a confirmação é feita somente pelo código. Nenhuma verificação será realizada por ligações de telefone ou por qualquer tipo de link.
 
-É possível conferir quais chaves você já registrou e gerenciá-las na seção “Minhas chaves”. 
+É possível conferir quais chaves você já registrou e gerenciá-las na seção “Minhas chaves”: 
 
-> [!ATENÇÃO]
+![imagem da tela do celular com as minhas chaves pix cadastradas](https://github.com/user-attachments/assets/2abfe9c4-35bb-4bf5-a048-dbe2b67e2e49)
+
+
+> [!IMPORTANT]
 > Você pode ter até 5 (cinco) chaves cadastradas aqui, mas cada chave pode estar em apenas uma instituição.
 
 
-
-
-## Artigos relacionados
+<!-- Podemos inserir uma seção de "artigos relacionados" para dar uma sequência ao assunto, oferecendo links para a pessoa usuária tomar outra ação -->
+<!-- 
+# Artigos relacionados 
+---
 
 - Instale o app Itaú no computador
 
 - O que é o Pix?
 
-- Novidades Pix no Itaú
-
-- Pagamento programado com Pix
-
 - Pix, TED e TEF num único lugar
 
 - Pix Saque e Troco
-
-- Pix com o saldo de outros bancos
-
-- Meus limites Pix
-
-- Novo atalho para pagamentos via Pix
 
 - Fique atento às dicas de segurança Pix
 
 - Pix para empresas
 
 - Dúvidas sobre Pix
+
+-->
